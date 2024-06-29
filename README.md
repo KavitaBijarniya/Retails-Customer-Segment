@@ -23,6 +23,9 @@ address these challenges through the development of an insightful Power BI dashb
 ﻿﻿﻿Office Supplies had the highest total Sum of Quantity at 107399, followed by Furniture at 34814 and Technology at 34672.﻿﻿
 ﻿﻿
 ﻿﻿Medium in Category Office Supplies made up 34.96% of Sum of Quantity.﻿﻿
+
+
+Link: https://tinyurl.com/5n6avzye
 ﻿﻿
 ﻿﻿Office Supplies had the highest average Sum of Quantity at 26,849.75, followed by Furniture at 8,703.50 and Technology at 8668.﻿﻿
 ﻿﻿
