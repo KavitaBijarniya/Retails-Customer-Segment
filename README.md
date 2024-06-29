@@ -22,15 +22,14 @@ address these challenges through the development of an insightful Power BI dashb
 ﻿﻿Across all 5 Channel, Sum of Sales ranged from 8,94,847.48 to 45,29,253.31.﻿﻿
 ﻿﻿﻿Office Supplies had the highest total Sum of Quantity at 107399, followed by Furniture at 34814 and Technology at 34672.﻿﻿
 ﻿﻿
-﻿﻿Medium in Category Office Supplies made up 34.96% of Sum of Quantity.﻿﻿
-
-
-Link: https://tinyurl.com/5n6avzye
+﻿﻿Medium in Category Office Supplies made up 34.96% of Sum of Quantity.﻿
 ﻿﻿
 ﻿﻿Office Supplies had the highest average Sum of Quantity at 26,849.75, followed by Furniture at 8,703.50 and Technology at 8668.﻿﻿
 ﻿﻿
 ﻿
 At 45,29,253.31, Third Party Marketplace had the highest Sum of Sales and was 406.15% higher than Comparison website, which had the lowest Sum of Sales at 8,94,847.48.﻿﻿
+
+Link: https://tinyurl.com/5n6avzye
 ﻿﻿
 ﻿﻿
 Third Party Marketplace accounted for 35.88% of Sum of Sales.﻿﻿
